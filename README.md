@@ -1,8 +1,10 @@
-# ContactApp
+# ContactsApp
 
 Stateless CRUD PPB C Assignment
-Name: Adhira Riyanti Amanda
-NRP: 5025211102
+
+| NRP        | Name                        |
+| ---------- | --------------------------- |
+| 5025211102 | Adhira Riyanti Amanda       |
 
 Source: https://github.com/jatinderji/contacts_list_app
 
